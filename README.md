@@ -4,7 +4,7 @@ I'm a 17 y.o. boi who likes to program in Kotlin, Dart (Flutter) and JavaScript.
 
 ##### What I'm working on?
 
-- Podium: An unofficial Alles (Micro) client for Android
+- [Podium](https://github.com/idkwhatusernameuse/Podium): An unofficial Alles (Micro) client for Android
 - [Backblur](https://github.com/idkwhatusernameuse/Backblur): An app to fit an image into a 1:1/16:9/9:16 container with a blurred background
 
 ##### How to reach me
