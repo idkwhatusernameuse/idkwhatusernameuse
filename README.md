@@ -13,3 +13,5 @@ I'm a 17 y.o. boi who likes to program in Kotlin, Dart (Flutter) and JavaScript.
 - [Telegram](https://t.me/idkwhatusernameuse)
 - Discord: idkwhatusernameuse#7097
 - [Twitter](https://twitter.com/idkwuu)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idkwhatusernameuse)](https://github.com/anuraghazra/github-readme-stats)
