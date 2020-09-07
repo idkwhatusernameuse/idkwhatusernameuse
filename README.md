@@ -5,12 +5,12 @@ I'm a 17 y.o. boi who likes to program in Kotlin, Dart (Flutter) and JavaScript.
 ##### What I'm working on?
 
 - [Talon for Android (Peroxaan)](https://peroxaan.com/Talon)
-- [Podium](https://github.com/idkwhatusernameuse/Podium): An unofficial Alles Micro client for Android
+- [Podium](https://github.com/idkwuu/Podium): An unofficial Alles Micro client for Android
 
 ##### How to reach me
 
-- [Telegram](https://t.me/idkwhatusernameuse)
+- [Telegram](https://t.me/idkwuu)
 - Discord: idkwhatusernameuse#7097
 - [Twitter](https://twitter.com/idkwuu)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idkwuu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idkwuu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
