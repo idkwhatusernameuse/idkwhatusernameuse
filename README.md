@@ -5,7 +5,7 @@ I'm a 17 y.o. boi who likes to program in Kotlin, Dart (Flutter) and JavaScript.
 ##### What I'm working on?
 
 - [Talon for Android (Peroxaan)](https://peroxaan.com/Talon)
-- [Podium](https://github.com/idkwuu/Podium): An unofficial Alles Micro client for Android
+- [Ruby for Android (Peroxaan)](https://peroxaan.com/Ruby)
 
 ##### How to reach me
 
