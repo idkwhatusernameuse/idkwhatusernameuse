@@ -252,7 +252,7 @@
                 {
                     "name": "Chinese",
                     "code": "zh",
-                    "default_category": 33,
+                    "default_category": 10,
                     "categories": [
                         9, 1, 10, 11, 2, 12, 13, 8, 14, 4, 5
                     ]
