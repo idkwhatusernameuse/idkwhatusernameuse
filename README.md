@@ -1,6 +1,9 @@
 ### hewwo, owo
 
-I'm a 17 y.o. boi who likes to program in Kotlin, Dart (Flutter) and JavaScript. I also like to watch anime and make edits in After Effects. I'm currently the head Android developer at Peroxaan
+- I'm 17 y.o.
+- He/they
+- I like to program in Kotlin (Android), Dart (Flutter) and sometimes JavaScript or Python.
+- Current head of Android dev at [Peroxaan](https://twitter.com/Peroxaan)
 
 ##### What I'm working on?
 
@@ -13,4 +16,6 @@ I'm a 17 y.o. boi who likes to program in Kotlin, Dart (Flutter) and JavaScript.
 - Discord: idkwuu#7097
 - [Twitter](https://twitter.com/idkwuu)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idkwuu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=idkwuu&show_icons=true&theme=onedark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idkwuu&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
