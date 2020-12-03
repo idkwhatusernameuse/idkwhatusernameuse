@@ -15,7 +15,3 @@
 - [Telegram](https://t.me/idkwuu)
 - Discord: idkwuu#7097
 - [Twitter](https://twitter.com/idkwuu)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=idkwuu&show_icons=true&theme=onedark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idkwuu&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
