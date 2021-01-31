@@ -1,6 +1,6 @@
 ### hewwo, owo
 
-- I'm 17 y.o.
+- I'm 18 y.o.
 - He/they
 - I like to program in Kotlin (Android), Dart (Flutter) and sometimes JavaScript or Python.
 - Current head of Android dev at [Peroxaan](https://twitter.com/Peroxaan)
