@@ -1,14 +1,16 @@
-### hewwo, owo
+### hewwo, owo 👉👈
 
 - I'm 18 y.o.
 - He/they
-- I like to program in Kotlin (Android), Dart (Flutter) and sometimes JavaScript or Python.
+- I make Android apps in Kotlin and sometimes play with Flutter
+- Learning React Native and C#
 - Current head of Android dev at [Peroxaan](https://twitter.com/Peroxaan)
 
 ##### What I'm working on?
 
 - [Talon for Android (Peroxaan)](https://peroxaan.com/Talon)
 - [Ruby for Android (Peroxaan)](https://peroxaan.com/Ruby)
+- some secret projects 🌗
 
 ##### How to reach me
 
