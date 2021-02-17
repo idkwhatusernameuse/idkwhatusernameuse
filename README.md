@@ -1,7 +1,7 @@
 ### hewwo, owo 👉👈
 
 - I'm 18 y.o.
-- He/they
+- He/him/they (whatever :P)
 - I make Android apps in Kotlin and sometimes play with Flutter
 - Learning React Native and C#
 - Current head of Android dev at [Peroxaan](https://twitter.com/Peroxaan)
