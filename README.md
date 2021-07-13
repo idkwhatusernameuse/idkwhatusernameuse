@@ -3,7 +3,7 @@
 - I'm 18 y.o.
 - He/they/she
 - I make Android apps in Kotlin and sometimes play with Flutter
-- Learning C#
+- Learning React/Next.js
 - Current head of Android dev at [Peroxaan](https://twitter.com/Peroxaan)
 
 ##### What I'm working on?
